@@ -12,5 +12,5 @@ UDP: DNS (53), NTP (123), HTTPS (443).
 Activating Controlled Folder Access to protect files against ransomware.
 Setting User Account Control (UAC) to its highest security level.
 
-⚠️ Note: This tool must be run as an administrator to apply changes.
+⚠️ Note: This tool must be run as an administrator to apply changes. Exe is clean from viruses but still false positives are not excluded.
 Bugs are possible :)
